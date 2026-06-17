@@ -16,7 +16,7 @@ Distributes cognitive workload across three independent text-based intelligence 
 2. **Forensic Jury Agent:** Actively audits concurrent fields to capture overlapping, paradoxical human traits (e.g., strong willpower vs physical exhaustion) and resolves them based on the strength of local visual evidence notes.
 3. **Scoring Synthesizer:** Calculates an explicit quantitative index ($0-100\%$) for each pillar and generates a professional executive narrative overview.
 
-### Phase 5: LLM-as-a-Judge Quality Governance Framework
+### Phase 4: LLM-as-a-Judge Quality Governance Framework
 * **Independent Audit Layer:** Intercepts system metrics before front-end presentation, routing the pipeline inputs and synthesized profiles to an isolated, deterministic (`temperature: 0.0`) evaluation script.
 * **Programmatic Validation:** Renders automated out-of-band metrics evaluating *Faithfulness*, *Context Alignment*, and executing an explicit *Hallucination Check* to guarantee enterprise safety.
 
