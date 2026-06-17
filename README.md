@@ -1,5 +1,3 @@
-# The Multimodal RAG Inference Engine
-
 # GraphoAgent: Validated Multimodal Vision RAG & AI Governance Pipeline
 
 ---
