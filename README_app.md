@@ -1,4 +1,4 @@
-# Handwriting Analysis Web App (app.py)
+# The Multimodal RAG Inference Engine
 
 This is a web application where you upload an image of handwriting to get a personality analysis.
 
