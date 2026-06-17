@@ -1,7 +1,5 @@
 # GraphoAgent: Validated Multimodal Vision RAG & AI Governance Pipeline
 
----
-
 ## Core Engineering Phases
 
 ### Phase 1: LLM-Powered ETL Ingestion Pipeline
